@@ -1,6 +1,6 @@
 # A-star-Search-Algorithm
 
-In this python file I write code of A* search technique.
+In this python file I wrote code of A* search technique.
 
 As an input I used below graph.
 
